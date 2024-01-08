@@ -1,7 +1,4 @@
 # CLI Calculator in C
-#### Description:
-
-# CLI Calculator in C
 
 This project is a C-Programming Language CLI program which aims to provide arithmetic-level operations.
 
