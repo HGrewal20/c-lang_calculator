@@ -1,5 +1,4 @@
 # CLI Calculator in C
-#### Video Demo:  <https://www.youtube.com/watch?v=2Nm4oGKeIUI>
 #### Description:
 
 # CLI Calculator in C
